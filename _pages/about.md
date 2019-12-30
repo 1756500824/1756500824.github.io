@@ -12,7 +12,10 @@ I am a senior student from [Southern University of Science and Technology](https
 
 I have joined SUSTech DBgroup from Nov. 2018 under the supervision of [Prof. Bo Tang](https://acm.sustech.edu.cn/btang/). In 2019 Summer, I was a research intern at [ISG-Group](https://isg.ics.uci.edu/) supervised by [Prof. Michael Carey](https://www.ics.uci.edu/~mjcarey/) and [Xikui Wang](https://www.linkedin.com/in/xikuiw/).
 
-My research interest is **database system**, **algorithm**, **data mining**.
+##Research Interests##
+**database system**
+**algorithm**
+**data mining**
 
 <!--
 A data-driven personal website
