@@ -27,5 +27,5 @@ Research Interests
 
 Education
 ======
-* B.Eng. in Computer Science, Southern University of Science and Technology, 2020 (expected)
+* B.Eng. in Computer Science, Southern University of Science and Technology, 2020
 
