@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can see my CV [here](https://github.com/1756500824/1756500824.github.io/blob/master/files/Resume_QiyangHe.pdf) in detail
+
 <!--
 Education
 ======
