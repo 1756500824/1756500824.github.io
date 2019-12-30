@@ -21,15 +21,13 @@ I have joined SUSTech DBgroup from Nov. 2018 under the supervision of [Prof. Bo 
 
 Research Interests
 ======
-Database <br>
-Algorithm <br>
-Data Mining <br>
+* Database 
+* Algorithm 
+* Data Mining 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science, Southern University of Science and Technology, 2020 (expected)
 <!--
 A data-driven personal website
 ======
