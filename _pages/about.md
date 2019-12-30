@@ -21,10 +21,10 @@ I have joined SUSTech DBgroup from Nov. 2018 under the supervision of [Prof. Bo 
 
 Research Interests
 ======
-**Database**
-**Algorithm**
-**Data Mining**
-======
+Database
+Algorithm
+Data Mining
+
 <!--
 A data-driven personal website
 ======
