@@ -1,12 +1,12 @@
-<!-- 
+---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
--->
+---
 
 I am a senior student from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) majoring in [Computer Science and Technology](http://cse.sustc.edu.cn/en/).
 
