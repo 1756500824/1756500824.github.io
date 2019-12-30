@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qiyang He"
 title_separator          : "-"
 name                     : &name "Qiyang He"
-description              : &description "Senior students at SUSTech"
+description              : &description "Senior student at SUSTech"
 url                      : https://1756500824.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "1756500824.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qiyang He"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior student at SUSTech"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "qiyanghe1998@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "1756500824"
   google_plus      :
   keybase          :
   instagram        :
