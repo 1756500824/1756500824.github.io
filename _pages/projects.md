@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /projects
 ---
+<br>
 
 Improving Data Ingestion Performance in Apache AsterixDB
 ======
