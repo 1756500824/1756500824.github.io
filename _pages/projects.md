@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /projects
 ---
+
+{% include base_path %}
+
 <br>
 
 Improving Data Ingestion Performance in Apache AsterixDB
@@ -21,7 +24,7 @@ of distributed architecture of AsterixDB. I worked to tackle this limitation.
 * Made the data parsing parallel and optimize the efficiency of data ingestion 
 * Designed comprehensive experiment settings to evaluate the improvement
 
-[Slides](https://17565600824.github.io/files/AsterixDB_Ingestion.pdf)
+[Slides](https://1756500824.github.io/files/AsterixDBIngestion.pdf) [Slides2](https://1756500824.github.io/files/AsterixDBIngestion.pptx)
 
 Discovering Top-k Newsworthy Facts from Multidimensional Dataset
 ======
