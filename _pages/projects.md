@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: ""
+title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
 ---
+
+
 
 Improving Data Ingestion Performance in Apache AsterixDB
 ======
