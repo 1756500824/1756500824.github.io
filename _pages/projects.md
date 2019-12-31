@@ -24,7 +24,7 @@ of distributed architecture of AsterixDB. I worked to tackle this limitation.
 * Made the data parsing parallel and optimize the efficiency of data ingestion 
 * Designed comprehensive experiment settings to evaluate the improvement
 
-[Slides](https://1756500824.github.io/files/AsterixDBIngestion.pdf) [Slides2](https://1756500824.github.io/files/AsterixDBIngestion.pptx)
+[slides](https://1756500824.github.io/files/AsterixDBIngestion.pdf) 
 
 Discovering Top-k Newsworthy Facts from Multidimensional Dataset
 ======
