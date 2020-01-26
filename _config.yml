@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qiyang He"
 title_separator          : "-"
-name                     : &name "Qiyang He"
+name                     : &name "Qiyang He (贺启旸)"
 description              : &description "Senior student at SUSTech"
 url                      : https://1756500824.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiyang He (贺启旸)"
+  name             : "Qiyang He"
   avatar           : "QiyangHe.jpg"
   bio              : "Senior student at SUSTech"
   location         : "Shenzhen, China"
